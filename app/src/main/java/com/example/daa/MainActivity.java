@@ -30,7 +30,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Vector;
 
-public class MainActivity extends AppCompatActivity {
+public class  MainActivity extends AppCompatActivity {
     LinearLayout merge,heapll,insertionll,selectionll,bubblell,quickll,quick3mll;
     EditText limit,input;
     Button sort;
